@@ -1,5 +1,3 @@
-# tts_global
-
 # Instructions
 Nah.
 
