@@ -1,5 +1,5 @@
 local accents = {
-    "http://www.hereyouretardedfagg.ot/" // put your fucking gay api in here
+    "http://www.hereyouretardedfagg.ot/" // put your gay api in here
 }
  
 local wait = true
